@@ -10,7 +10,7 @@
   "repository": "https://github.com/iyanuashiri/celeroku",
   "env": {
     "BROKER_URL": {
-      "description": "Default broker URL.",
+      "description": "Default broker URL..",
       "value": ""
     },
     "FLOWER_BASIC_AUTH": {
